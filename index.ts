@@ -1,1 +1,1 @@
-console.log("nhan thi huyen trang");
+console.log('ngo tan thanh');
